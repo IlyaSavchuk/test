@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/IlyaSavchuk/test#readme",
   "dependencies": {
-    "css-loader": "^1.0.0"
+    "css-loader": "^2.0.0"
   }
 }
